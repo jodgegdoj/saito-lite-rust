@@ -1,6 +1,6 @@
 # Attacks
 
-Saito is secure against classes of attack which have no defense mechanisms in other chains. This document explains how these defense mechanisms work, since they can be non-obvious to those new to way Saito works.
+Saito is secure against classes of attack which have no defense mechanisms in other chains. This document explains how these defense mechanisms work, since they can be non-obvious to those new to the way Saito works.
 
 
 ## 1. SYBIL ATTACKS
